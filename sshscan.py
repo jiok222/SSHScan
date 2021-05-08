@@ -23,6 +23,7 @@
 #
 # Cipher detection based on: https://stribika.github.io/2015/01/04/secure-secure-shell.html
 #
+# Modif
 
 import sys, re
 import socket
